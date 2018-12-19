@@ -9,5 +9,7 @@
             "dom"
         ],
         "resolveJsonModule": true
+        
     }
+
 }
