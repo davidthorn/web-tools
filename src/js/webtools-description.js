@@ -1,5 +1,4 @@
-(() => {
-
+window.addEventListener('onload' , () => {
     console.trace('this was written here')
 
     const ele = document.getElementById('webtools-description')
@@ -10,5 +9,4 @@
     } , (data, code, response) => {
         ele.innerHTML = data
     })
-
-})()
+})

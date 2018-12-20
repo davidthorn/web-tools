@@ -1,0 +1,21 @@
+#radians-converter-wrapper table {
+    border: 1px solid #a1a1a1;
+    width: 80%;
+    height: auto;
+    margin: 30px auto 30px auto;
+    border-collapse: collapse;
+}
+
+table thead{
+    text-indent: 10px;
+    line-height: 1.5em;
+    background: #a1a1a150;
+    border: 1px solid #a1a1a1;
+}
+
+table td{
+    text-indent: 10px;
+    line-height: 2em;
+    border: 1px solid #a1a1a1;
+    text-align: center;
+}
