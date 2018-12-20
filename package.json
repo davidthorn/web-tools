@@ -2,14 +2,7 @@
     "name": "web-tools",
     "version": "1.0.0",
     "main": "index.js",
-    "scripts": {
-        "test": "nyc mocha",
-        "pretest": "tsc",
-        "watch": "mocha-typescript-watch",
-        "prepare": "tsc",
-        "start": "webpack-dev-server --open",
-        "build": "webpack && cp -r assets/* dist && tsc"
-    },
+    "scripts": {},
     "author": "David Thorn <david.thorn221278@googlemail.com>",
     "license": "ISC",
     "dependencies": {
